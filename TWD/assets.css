@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(45, 54, 28);
+    
+}
+p {
+    text-align: center;
+}
+h1 {
+    font-family: fantasy;
+}
+table{
+    width: 600px;
+    height: 200px;
+    font-size: large;
+    background-image: url(assets/The-Walking-Dead-Destinies.webp);
+    background-size: cover;
+    
+}
+tr,th,td {
+    padding: 20px;
+    font-weight: bolder;
+    color: rgb(95, 138, 89);
+}
